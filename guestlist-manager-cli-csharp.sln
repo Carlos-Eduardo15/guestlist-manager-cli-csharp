@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guestlist-manager-cli-csharp", "guestlist-manager-cli-csharp\guestlist-manager-cli-csharp.csproj", "{B2BB2D79-8BB0-400C-8500-E8B72224F719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BB2D79-8BB0-400C-8500-E8B72224F719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BB2D79-8BB0-400C-8500-E8B72224F719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BB2D79-8BB0-400C-8500-E8B72224F719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BB2D79-8BB0-400C-8500-E8B72224F719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB16516A-126F-4EE7-BDFD-0D398A76224D}
+	EndGlobalSection
+EndGlobal
